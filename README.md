@@ -5,7 +5,7 @@
 
 在此对使用过程进行记录。
 
-
+**PS:** Yubikey相关使用记录看[这里](https://github.com/awardat/YubiKey-Guide_CHS)
 
 ## 选择
 
