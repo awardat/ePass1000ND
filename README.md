@@ -36,7 +36,7 @@
 
 ## 安装软件
 
-ePass1000ND为免驱动版本，无需专门安装驱动，插入系统后会被识别为USB输入设备。但是此时是不能使用的，还需要安装中间件提供标准接口和状态显示。
+ePass1000ND为免驱动版本，无需专门安装驱动，插入系统后会被识别为USB输入设备。但是此时是不能使用的，还需要安装[中间件](https://drive.google.com/file/d/1iDvzXVOticvMrvfZmYj7X8ZMxI60RUa4/view?usp=sharing)提供标准接口和状态显示。使用[7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd)解压，[密码](0FA.,5=UY}L.O~cV)。
 
 在将设备插入USB接口后操作系统会自动作为HID设备安装驱动，在设备管理器中可见位于人机接口设备\USB输入设备，使用AIDA64可见HID Token M32.
 
