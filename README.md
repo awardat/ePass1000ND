@@ -147,9 +147,9 @@ ePass1000ND为免驱动版本，无需专门安装驱动，插入系统后会被
 
 ## 使用令牌保存VeraCrypt密钥
 
-[VeraCrypt]([VeraCrypt - Free Open source disk encryption with strong security for the Paranoid](https://veracrypt.fr/en/Home.html))是一个基于TrueCrypt 7.1a的开源多平台磁盘加密软件，可以对系统盘（分区）、非系统盘（分区）、文件型加密卷进行加密，支持使用密钥文件和/或口令对加密卷进行保护。
+[VeraCrypt](https://veracrypt.fr/en/Home.html)是一个基于TrueCrypt 7.1a的开源多平台磁盘加密软件，可以对系统盘（分区）、非系统盘（分区）、文件型加密卷进行加密，支持使用密钥文件和/或口令对加密卷进行保护。
 
-VeraCrypt支持使用一个、多个或一个路径下的全部任意类型的文件作为密钥文件，并从这个（些）文件派生出加密密钥，其原理见[此处]([VeraCrypt - Free Open source disk encryption with strong security for the Paranoid](https://veracrypt.fr/en/Keyfiles.html))。也可以使用VeraCrypt自带的密钥文件生成器生成密钥。
+VeraCrypt支持使用一个、多个或一个路径下的全部任意类型的文件作为密钥文件，并从这个（些）文件派生出加密密钥，其原理见[此处](https://veracrypt.fr/en/Keyfiles.html)。也可以使用VeraCrypt自带的密钥文件生成器生成密钥。
 
 密钥文件可以保存在文件系统中也可以保存在符合PKCS #11（2.0或更高版本）标准的安全令牌或智能卡上。这意味着我们可以使用多个令牌分别保存同一个加密卷的多个密钥文件以实现更高的安全性或者多人共管。
 
